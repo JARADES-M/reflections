@@ -7,14 +7,19 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+	I can use git diff --staged to check the changes.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+	I's helpfull when you want to make significant changes on the project, that could harm or is not directly alligned to the logical.
 
 How do the diagrams help you visualize the branch structure?
+	The diagram helps you keep track of the branchs you create.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+	It results in a file with the equals and differences betwen files. the diagram helps to keep track.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+	manual merge let you chose what keep and delete from de file.
